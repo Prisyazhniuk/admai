@@ -8,9 +8,9 @@ The following features are a feature of this project:
 # Tools
 
 ![](https://img.shields.io/badge/React-blue?style=for-the-circle)
-![](https://img.shields.io/badge/Django--tools-blueviolet?style=for-the-circle) 
+![](https://img.shields.io/badge/Django-blueviolet?style=for-the-circle) 
 ![](https://img.shields.io/badge/PostgreSQL-yellow?style=for-the-circle)
-![](https://img.shields.io/badge/JS-orange?style=for-the-circle)
+![](https://img.shields.io/badge/JavaScript-orange?style=for-the-circle)
 
 # Django
 The latest official version is 5.0.6. Read the 5.0.6 release notes, then install it with pip:
