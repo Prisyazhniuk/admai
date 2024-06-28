@@ -1,4 +1,4 @@
-# Dating app ADMAI
+# Dating app ADMAI - anonymous dating matches AI
 The following features are a feature of this project: 
 
 1. Using AI algorithms to select user pairs.
